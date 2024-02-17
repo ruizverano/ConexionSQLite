@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wyybMy/fOxsJcKMv84deDN04BFfFBzAxBCF1kTAgWeuNfwKvS8WtCka+acovDBFrsJIjOB220t+ggdYsPrvQNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CRISTIAN.RUIZV\\source\\repos\\cursoNet\\net core sqlite\\ConexionSQLite\\ConexionSQLite\\ConexionSQLite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CRISTIAN.RUIZV\\.nuget\\packages\\microsoft.data.sqlite\\8.0.2\\microsoft.data.sqlite.8.0.2.nupkg.sha512",
+    "C:\\Users\\CRISTIAN.RUIZV\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.2\\microsoft.data.sqlite.core.8.0.2.nupkg.sha512",
+    "C:\\Users\\CRISTIAN.RUIZV\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\CRISTIAN.RUIZV\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\CRISTIAN.RUIZV\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\CRISTIAN.RUIZV\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\CRISTIAN.RUIZV\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
